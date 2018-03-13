@@ -69,6 +69,7 @@ class mysql
 		mysql_query("set names utf8;");
 		mysql_query("SET sql_mode='';");
 		//mysql_query("set names gb2312;");
+		var_dump($this->linkID);
 		return $this->linkID;			
 	}
 	//======================================
