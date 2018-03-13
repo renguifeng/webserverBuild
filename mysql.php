@@ -4,7 +4,7 @@
 //==========================================
 
 //make sure all sytax error are reported.
-error_reporting(0);
+//error_reporting(0);
 
 class mysql
 {
